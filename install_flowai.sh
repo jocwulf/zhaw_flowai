@@ -5,6 +5,7 @@ sudo apt-get update
 sudo apt-get install -y dos2unix
 
 # Use Node.js version 20 and set it as default
+source /usr/local/share/nvm/nvm.sh
 nvm use 20
 nvm alias default 20
 
