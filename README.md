@@ -13,4 +13,5 @@ Case study: No-code agent development with FlowAI.
    ```bash
    ./install_flowai.sh
    ```
-4. Click on the popup with the link to open a new window with the FlowAI interface.
+4. In the popup, click on "make puplic".
+5. Go the the "PORTS" tab and open address in new window.
